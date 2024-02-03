@@ -7,6 +7,14 @@ Task 2: Creating new catkin workspaces and writing python codes for:
 
 1: Circle:
 Screenshot:
+
+
+
+
+
+
+
+
 <img width="185" alt="Circle" src="https://github.com/saumil2396/AuE8230Spring24_PradhanSaumil/assets/100736973/611d9eff-d1b9-49c1-a7c3-8f3d897281b1">
 
 
@@ -17,6 +25,15 @@ Video: A 30s video of the code is shared below. Please note, only the final 30s 
 
 2. Open loop square:
 Screenshot:
+
+
+
+
+
+
+
+
+
 <img width="187" alt="Square" src="https://github.com/saumil2396/AuE8230Spring24_PradhanSaumil/assets/100736973/392f4b35-683b-4f62-ab0a-58da307fc7d4">
 
 
