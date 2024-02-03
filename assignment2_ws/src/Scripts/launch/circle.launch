@@ -1,0 +1,9 @@
+<launch>
+    <node pkg="turtlesim" type="turtlesim_node" name="turtlesim_node"/>
+    <node pkg="Scripts" type="circle.py" name="circle">
+        <param name="radius" value="2"/>
+        <param name="y" value="1"/>
+        <param name="omega" value="0.2"/>
+        <param name="tol" value="0.1"/>
+    </node>
+</launch>

@@ -1,0 +1,9 @@
+<launch>
+    <node pkg="turtlesim" type="turtlesim_node" name="turtlesim_node"/>
+    <node pkg="Scripts" type="square_openloop.py" name="square_openloop">
+        <param name="x" value="0.2"/>
+        <param name="y" value="1"/>
+        <param name="omega" value="0.2"/>
+        <param name="tol" value="0.1"/>
+    </node>
+</launch>

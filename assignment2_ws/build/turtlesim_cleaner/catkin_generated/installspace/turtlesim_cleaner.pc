@@ -1,0 +1,8 @@
+prefix=/home/saumilv/AuE8230Spring24_PradhanSaumil/assignment2_ws/install
+
+Name: turtlesim_cleaner
+Description: Description of turtlesim_cleaner
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/saumilv/AuE8230Spring24_PradhanSaumil/assignment2_ws/devel
+
+Name: Scripts
+Description: Description of Scripts
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
