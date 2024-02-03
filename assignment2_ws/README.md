@@ -5,6 +5,17 @@ The link to GitHub repository shall be shared on Canvas.
 
 Task 2: Creating new catkin workspaces and writing python codes for:
 
+Location of codes: https://github.com/saumil2396/AuE8230Spring24_PradhanSaumil/tree/main/assignment2_ws/src/Scripts/src
+Launch file for codes: https://github.com/saumil2396/AuE8230Spring24_PradhanSaumil/tree/main/assignment2_ws/src/Scripts/launch
+
+How to run the codes:
+1. Go to assignment2_ws workspace on terminal.
+2. Run source /devel/setup.bash
+3. Run roslaunch Scripts circle.launch for circle.py code.
+4. Run roslaunch Scripts square_openloop.launch for square_openloop.py code.
+
+Results:
+
 1: Circle:
 Screenshot:
 
